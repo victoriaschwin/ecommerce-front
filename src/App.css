@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400&display=swap');
+
+.navbar-nav{
+  gap: 1rem;
+  position: relative;
+  left: 1000px;
+  font-family: 'Inconsolata', monospace;
+}
+.navbar-brand{
+  font-family: 'Inconsolata', monospace;
+}
+a{
+  color: #212529 !important;
+}

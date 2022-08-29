@@ -1,0 +1,21 @@
+.articulo{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+.tituloArt{
+  margin: 2rem;
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+}
+.card-title{
+  font-family: 'Inconsolata', monospace;
+}
+.card-text{
+  font-family: 'Inconsolata', monospace;
+}
+.btn-secondary{
+  font-family: 'Inconsolata', monospace;
+
+}
